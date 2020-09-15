@@ -1,5 +1,16 @@
-# Compilend source #
+# Compiled source #
 ####################
 bin
 obj
 config
+
+# System files #
+.vs
+
+# Utilitarios #
+.sonarqube
+
+# Install files #
+Debug
+Release
+
