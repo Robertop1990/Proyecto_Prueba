@@ -1,0 +1,8 @@
+exported 36 
+unsupported 63 
+AsyncKeyword 41
+SwitchStatement 2
+LogicalAndExpression 6
+SimpleLambdaExpression 10
+ConditionalExpression 4
+

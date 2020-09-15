@@ -1,0 +1,138 @@
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\AgendaContext.cs
+GetCurrentTransaction 4
+GetCurrentTransaction -1
+OnModelCreating 46
+OnModelCreating -1
+SaveEntitiesAsync 6
+SaveEntitiesAsync -1
+BeginTransactionAsync 7
+BeginTransactionAsync -1
+CommitTransactionAsync 4
+CommitTransactionAsync -1
+RollbackTransaction 6
+RollbackTransaction -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\ActividadEntityTypeConfiguration.cs
+Configure 8
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\AdnRentaEntityTypeConfiguration.cs
+Configure 6
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\CitaEntityTypeConfiguration.cs
+Configure 11
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\ConsolidadoIntermediarioEntityTypeConfiguration.cs
+Configure 4
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\DepartamentoEntityTypeConfiguration.cs
+Configure 4
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\DireccionEntityTypeConfiguration.cs
+Configure 5
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\DistritoEntityTypeConfiguration.cs
+Configure 7
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\ListaTablaEntityTypeConfiguration.cs
+Configure 7
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\ProspectoEntityTypeConfiguration.cs
+Configure 5
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\ProvinciaEntityTypeConfiguration.cs
+Configure 5
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\RangoEdadEntityTypeConfiguration.cs
+Configure 5
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\RangoIngresoEntityTypeConfiguration.cs
+Configure 6
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\RecordatorioLlamadaEntityTypeConfiguration.cs
+Configure 5
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\ReferidoEntityTypeConfiguration.cs
+Configure 5
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\ReunionEntityTypeConfiguration.cs
+Configure 4
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\EntityConfigurations\TablaTablasEntityTypeConfiguration.cs
+Configure 5
+Configure -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Logging\CustomLoggerProviderExtensions.cs
+UseCustomLoggerProvider 26
+UseCustomLoggerProvider -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\MediatorExtension.cs
+DispatchDomainEventsAsync 4
+DispatchDomainEventsAsync -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\CitaRepository.cs
+Agregar 5
+Agregar -1
+Actualizar 5
+Actualizar -1
+ActualizarReagendado 9
+ActualizarReagendado -1
+Calificar 6
+Calificar -1
+CalificarMultipleCitaNoConcretada 5
+CalificarMultipleCitaNoConcretada -1
+ObtenerCitaPorId 5
+ObtenerCitaPorId -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\ProspectoRepository.cs
+Agregar 5
+Agregar -1
+Actualizar 4
+Actualizar -1
+Descartar 6
+Descartar -1
+ActivarProspecto 4
+ActivarProspecto -1
+Obtener 5
+Obtener -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\RecordatorioLlamadaRepository.cs
+Agregar 6
+Agregar -1
+Actualizar 6
+Actualizar -1
+ActualizarReagendado 12
+ActualizarReagendado -1
+ObtenerRecordatorioLlamadaPorId 8
+ObtenerRecordatorioLlamadaPorId -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\ReunionRepository.cs
+Agregar 7
+Agregar -1
+Actualizar 5
+Actualizar -1
+Eliminar 6
+Eliminar -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Utilitarios\ConfigApp.cs
+LeerParametrosDesdeArchivo 16
+LeerParametrosDesdeArchivo -1
+
+C:\Users\Administrador\AppData\Local\Temp\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\obj\Debug\netcoreapp3.1\Agenda.Infrastucture.AssemblyInfo.cs
+

@@ -1,0 +1,100 @@
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\CitaAggregate\Actividad.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\CitaAggregate\Cita.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\CitaAggregate\CitaMovimientoEstado.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\CitaAggregate\ICitaRepository.cs
+Agregar 18
+Agregar -1
+Actualizar 11
+Actualizar -1
+Calificar 12
+Calificar -1
+ObtenerCitaPorId 5
+ObtenerCitaPorId -1
+ActualizarReagendado 16
+ActualizarReagendado -1
+CalificarMultipleCitaNoConcretada 7
+CalificarMultipleCitaNoConcretada -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\AdnRenta.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\ConsolidadoIntermediario.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\Departamento.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\DireccionProspecto.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\Distrito.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\IProspectoRepository.cs
+Agregar 10
+Agregar -1
+Actualizar 5
+Actualizar -1
+Descartar 9
+Descartar -1
+ActivarProspecto 4
+ActivarProspecto -1
+Obtener 7
+Obtener -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\ListaTabla.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\Prospecto.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\Provincia.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\RangoEdad.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\RangoIngreso.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\Referido.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ProspectoAggregate\TablaTablas.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\RecordatorioLlamadaAggregate\IRecordatorioLlamadaRepository.cs
+Agregar 4
+Agregar -1
+Actualizar 4
+Actualizar -1
+ActualizarReagendado 10
+ActualizarReagendado -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\RecordatorioLlamadaAggregate\RecordatorioLlamada.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ReunionAggegate\IReunionRepository.cs
+Agregar 8
+Agregar -1
+Actualizar 5
+Actualizar -1
+Eliminar 8
+Eliminar -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\AggregatesModel\ReunionAggegate\Reunion.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\Exceptions\AgendaDomainException.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\SeedWork\Entity.cs
+AddDomainEvent 25
+AddDomainEvent -1
+RemoveDomainEvent 5
+RemoveDomainEvent -1
+ClearDomainEvents 4
+ClearDomainEvents -1
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\SeedWork\IAggregateRoot.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\SeedWork\IRepository.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\SeedWork\IUnitOfWork.cs
+SaveChangesAsync 4
+SaveChangesAsync -1
+SaveEntitiesAsync 4
+SaveEntitiesAsync -1
+
+C:\Users\Administrador\AppData\Local\Temp\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+
+D:\Proyecto-Agenda-Mejoras-1\Agenda.Domain\obj\Debug\netcoreapp3.1\Agenda.Domain.AssemblyInfo.cs
+
