@@ -1,9 +1,0 @@
-File name	Line	Function	Duration[ms]	Explored nodes
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\AgendaContext.cs	52	_Agenda.Infrastucture.AgendaContext.OnModelCreating$Microsoft.EntityFrameworkCore.ModelBuilder$	0	3
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\CitaRepository.cs	12	_Agenda.Infrastucture.Repositories.CitaRepository.Agregar$Agenda.Domain.AggregatesModel.CitaAggregate.Cita$	0	3
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Utilitarios\ConfigApp.cs	22	_Agenda.Infrastucture.Utilitarios.ConfigApp.LeerParametrosDesdeArchivo$$	0	3
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Logging\CustomLoggerProviderExtensions.cs	8	_Agenda.Infrastucture.Logging.CustomLoggerProviderExtensions.UseCustomLoggerProvider$Microsoft.AspNetCore.Hosting.IWebHostBuilder$	0	2
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\ProspectoRepository.cs	17	_Agenda.Infrastucture.Repositories.ProspectoRepository.Agregar$Agenda.Domain.AggregatesModel.ProspectoAggregate.Prospecto$	0	3
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\ProspectoRepository.cs	149	_Agenda.Infrastucture.Repositories.ProspectoRepository.Obtener$int$	0	2
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\ReunionRepository.cs	14	_Agenda.Infrastucture.Repositories.ReunionRepository.Agregar$Agenda.Domain.AggregatesModel.ReunionAggegate.Reunion$	0	2
-D:\Proyecto-Agenda-Mejoras-1\Agenda.Infrastucture\Repositories\ReunionRepository.cs	41	_Agenda.Infrastucture.Repositories.ReunionRepository.Eliminar$Agenda.Domain.AggregatesModel.ReunionAggegate.Reunion$	0	2
